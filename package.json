@@ -1,0 +1,19 @@
+{
+  "name": "tasks-manager",
+  "version": "0.0.1",
+  "description": "Easy Tasks Manager for Node.js CLI Applications ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkryptondev/tasks-manager.git"
+  },
+  "author": "vkryptondev <root@vkrypton.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkryptondev/tasks-manager/issues"
+  },
+  "homepage": "https://github.com/vkryptondev/tasks-manager#readme"
+}
